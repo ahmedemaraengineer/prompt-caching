@@ -1,0 +1,13 @@
+langchain 
+langchain-ibm 
+langchain_experimental 
+langchain-text-splitters 
+langchain_chroma 
+transformers 
+bs4 
+langchain_huggingface 
+sentence-transformers
+llama-index
+langchain-classic
+langchain_community
+langchain-core
